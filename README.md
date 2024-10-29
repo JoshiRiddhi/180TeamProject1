@@ -12,16 +12,19 @@ User
 - posts
 - conversations
 
-Post
-- owner (user)
-- comments
-- upvotes
-- downvotes
-
 Conversation
 - first user
 - second user
 - messages
 
-Messages
+Message
+- content
 - sender
+
+(If Necessary)<br>
+Post
+- content
+- owner (user)
+- comments
+- upvotes
+- downvotes
