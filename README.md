@@ -21,7 +21,8 @@ Message
 - content
 - sender
 
-(If Necessary)<br>
+(If Necessary)
+
 Post
 - content
 - owner (user)
