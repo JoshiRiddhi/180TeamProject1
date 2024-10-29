@@ -12,6 +12,10 @@ User
 - posts
 - conversations
 
+- addFriend method
+- changeUsername method
+- 
+
 Conversation
 - first user
 - second user
