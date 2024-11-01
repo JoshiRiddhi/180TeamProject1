@@ -11,6 +11,8 @@ User
 - blocked
 - posts
 - conversations
+- login method
+- register method
 
 Conversation
 - first user
