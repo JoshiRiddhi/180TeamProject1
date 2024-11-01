@@ -14,7 +14,8 @@ User
 
 - addFriend method
 - changeUsername method
-- 
+- userLogin method
+- userRegister method
 
 Conversation
 - first user
